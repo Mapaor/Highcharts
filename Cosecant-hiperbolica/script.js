@@ -1,4 +1,3 @@
-console.log("Eeeeeeee!!");
 // Create an array with data from y = 1 / x
 const data = [];
 for (let x = -6; x < 6; x += 0.01) {
@@ -14,7 +13,7 @@ const chart = Highcharts.chart('container', {
         height: '100%'
     },
     title: {
-        text: 'Sonified mathematical function',
+        text: 'Cosecant hiperbòlica', // EDITAR SI ES VOL CANVIAR EL TÍTOL DEL GRÀFIC
         align: 'left'
     },
     sonification: {
