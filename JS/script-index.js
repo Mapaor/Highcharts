@@ -1,3 +1,4 @@
+console.log("Eeeeeeee!!");
 // Create an array with data from y = 1 / x
 const data = [];
 for (let x = -6; x < 6; x += 0.01) {
